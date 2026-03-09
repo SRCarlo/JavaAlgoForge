@@ -143,8 +143,8 @@ This ensures clarity, consistency, and easy progress tracking.
 
 ## 🌱 Current Status
 
-- **Status:** 🟢 Active  
-- **Progress:**  Week 09 / 13 ( Day 57 / 90 )
+- **Status:** 🟢 Active   
+- **Progress:**  Week 09 / 13 ( Day 58 / 90 )
 
 ---
 
