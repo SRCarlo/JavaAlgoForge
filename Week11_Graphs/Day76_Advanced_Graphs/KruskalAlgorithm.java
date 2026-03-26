@@ -41,7 +41,7 @@
  * Space Complexity: O(V)
  */
 
-package Week01_Basics_Logic.Week11_Graphs.Day77_Graph_Revision;
+package Week01_Basics_Logic.Week11_Graphs.Day76_Advanced_Graphs;
 
 import java.util.Arrays;
 

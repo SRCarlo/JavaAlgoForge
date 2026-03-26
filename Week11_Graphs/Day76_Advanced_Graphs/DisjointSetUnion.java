@@ -37,7 +37,7 @@
  * Space Complexity: O(n)
  */
 
-package Week01_Basics_Logic.Week11_Graphs.Day77_Graph_Revision;
+package Week01_Basics_Logic.Week11_Graphs.Day76_Advanced_Graphs;
 
 public class DisjointSetUnion {
 
